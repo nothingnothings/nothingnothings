@@ -1,6 +1,6 @@
-![APanazolo Status](https://github-readme-stats.vercel.app/api?username=nothingnothings&show_icons=true)
 
-### Hello, Welcome to my Page and Projects! 👋
+
+### Hello, Welcome to my humble GitHub Page! 👋
 
 - 🔭 I’m currently working on a Portfolio page
 - 🌱 I’m currently learning SASS, Node.JS
@@ -9,3 +9,8 @@
 - 📫 How to reach me: https://br.linkedin.com/in/arthur-dalla-corte-panazolo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![APanazolo Status](https://github-readme-stats.vercel.app/api?username=nothingnothings&show_icons=true)
+
+[![APanazolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
