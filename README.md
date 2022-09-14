@@ -1,6 +1,6 @@
 
 
-### Hello, Welcome to my humble GitHub Page! 👋
+### Hello, Welcome to my humble GitHub Profile! 👋
 
 - 🔭 I’m currently working on a Portfolio page
 - 🌱 I’m currently learning SASS, Node.JS
