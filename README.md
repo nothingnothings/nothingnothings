@@ -1,4 +1,4 @@
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_ic
+![APanazolo Status](https://github-readme-stats.vercel.app/api?username=nothingnothings&show_icons=true)
 
 ### Hi there 👋
 
