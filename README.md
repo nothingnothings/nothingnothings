@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning SASS, Node.JS
 - 🤔 I’m looking for help with CSS Animations
 - 💬 Ask me about HTML, CSS, JavaScript, ReactJS
-- 📫 How to reach me: https://br.linkedin.com/in/arthur-dalla-corte-panazolo
+- 📫 How to reach me: https://linkedin.com/in/arthur-dalla-corte-panazolo
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
