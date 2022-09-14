@@ -11,12 +11,6 @@
 - ⚡ Fun fact: ...
 
 
-![APanazolo Status](https://github-readme-stats.vercel.app/api?username=nothingnothings&show_icons=true)
-
-[![APanazolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/nothingnothings/github-readme-stats)
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
