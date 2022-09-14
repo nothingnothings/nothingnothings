@@ -13,4 +13,4 @@
 
 ![APanazolo Status](https://github-readme-stats.vercel.app/api?username=nothingnothings&show_icons=true)
 
-[![APanazolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
+[![APanazolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/nothingnothings/github-readme-stats)
