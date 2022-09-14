@@ -1,6 +1,6 @@
 ![APanazolo Status](https://github-readme-stats.vercel.app/api?username=nothingnothings&show_icons=true)
 
-### Hello, Welcome to my page and projects! 👋
+### Hello, Welcome to my Page and Projects! 👋
 
 - 🔭 I’m currently working on a Portfolio page
 - 🌱 I’m currently learning SASS, Node.JS
