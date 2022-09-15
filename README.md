@@ -17,7 +17,6 @@
 - 📫 How to reach me: https://linkedin.com/in/arthur-dalla-corte-panazolo
 
 
-
 ### About
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
