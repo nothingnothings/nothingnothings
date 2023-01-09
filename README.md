@@ -11,7 +11,7 @@
 #### Hello, Welcome to my humble GitHub profile!
 
 - 🔭 I’m currently working on a Portfolio page
-- 🌱 I’m currently learning SASS, Node.JS
+- 🌱 I’m currently learning SASS, Node.JS, Vue
 - 🤔 I’m looking for help with CSS Animations
 - 💬 Ask me about HTML, CSS, JavaScript, ReactJS
 - 📫 How to reach me: https://linkedin.com/in/arthur-dalla-corte-panazolo
