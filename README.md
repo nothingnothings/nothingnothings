@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=6&theme=yeblu" />
+  <img align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=6&theme=yeblu" />
 </a>
 
 
