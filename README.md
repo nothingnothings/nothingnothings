@@ -1,7 +1,7 @@
 # Arthur Panazolo
 
 <div style="width: 100%;">
-  <img src="logo.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="logo.svg" style="width: 25%;" alt="logo">
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://br.linkedin.com/in/arthur-dalla-corte-panazolo)
