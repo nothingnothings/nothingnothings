@@ -31,7 +31,7 @@
 <!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-## This week's activity
+### This week's activity
 
 <!--START_SECTION:waka-->
 
