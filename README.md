@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 50%;">
   <img src="logo.svg" style="width: 25%;" alt="logo">
 </div>
 
@@ -32,8 +32,6 @@
 - 🌱 I’m currently learning Docker, SQL, AWS, Vue3
 - 🤔 I’m looking for help with CSS Animations
 - 💬 Ask me about HTML, CSS, JavaScript, Typescript, ReactJS, Vue2
-
-
 
 
 
