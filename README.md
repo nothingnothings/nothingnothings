@@ -24,7 +24,7 @@
   <img align="center" style="width: 125; transform: scale(0.95);" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 175; transform: scale(0.7); height: 100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu" />
+  <img align="center" style="width: 300; transform: scale(0.7); height: 100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu" />
 </a>
  </p>
 
