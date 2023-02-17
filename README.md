@@ -27,8 +27,6 @@
 
 #
 
-# Hello, Welcome to my humble GitHub profile!
-
 - 🔭 I’m currently working on a Portfolio page
 - 🌱 I’m currently learning Docker, SQL, AWS, Vue3
 - 🤔 I’m looking for help with CSS Animations
