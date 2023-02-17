@@ -28,6 +28,11 @@
   <img align="center" style="width: 70%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=6&theme=yeblu" />
 </a>
 
-[![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
+### This week's activity
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
