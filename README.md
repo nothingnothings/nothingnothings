@@ -12,7 +12,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, Typescript, ReactJS, Vue2
 
 
-### This week's activity
+## This week's activity
 
 <!--START_SECTION:waka-->
 
