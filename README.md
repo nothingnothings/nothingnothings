@@ -17,20 +17,6 @@
 - 📫 How to reach me: https://linkedin.com/in/arthur-dalla-corte-panazolo
 
 
-### About
-
-<p style="align: left;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 125; transform: scale(0.5);" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 300; transform: scale(0.7); height: 100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu" />
-</a>
- </p>
-
-<!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
 ### This week's activity
 
 <!--START_SECTION:waka-->
@@ -48,3 +34,19 @@ Docker       5 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+### About
+
+<p style="align: left;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="width: 125; transform: scale(0.5);" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="width: 300; transform: scale(0.7); height: 100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu" />
+</a>
+ </p>
+
+<!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
