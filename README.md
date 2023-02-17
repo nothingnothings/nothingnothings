@@ -4,16 +4,6 @@
 
 # 
 
-# Hello, Welcome to my humble GitHub profile!
-
-- 🔭 I’m currently working on a Portfolio page
-- 🌱 I’m currently learning Docker, SQL, AWS, Vue3
-- 🤔 I’m looking for help with CSS Animations
-- 💬 Ask me about HTML, CSS, JavaScript, Typescript, ReactJS, Vue2
-
-
-## Languages/Frameworks/Tools/Technologies
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,6 +13,16 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+# Hello, Welcome to my humble GitHub profile!
+
+- 🔭 I’m currently working on a Portfolio page
+- 🌱 I’m currently learning Docker, SQL, AWS, Vue3
+- 🤔 I’m looking for help with CSS Animations
+- 💬 Ask me about HTML, CSS, JavaScript, Typescript, ReactJS, Vue2
+
+
+
 
 
 ## This week's activity
