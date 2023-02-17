@@ -19,15 +19,19 @@
 
 ### About
 
-<div>
+<div style="display: flex;">
+  <div style="">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu" />
 </a>
-
+  </div>
+  
+  <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=6&theme=yeblu" />
 </a>
   </div>
+ </div>
 
 <!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
  -->
