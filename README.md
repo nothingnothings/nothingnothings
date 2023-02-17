@@ -21,10 +21,10 @@
 
 <p style="align: left;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 200;" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu" />
+  <img align="center" style="width: 150;" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="width: 200;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=6&theme=yeblu" />
+  <img align="center" style="width: 150;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=6&theme=yeblu" />
 </a>
  </p>
 
