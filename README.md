@@ -35,4 +35,15 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Total Time: 33 hrs 9 mins
+
+JavaScript   22 hrs 54 mins  █████████████████░░░░░░░░   69.09 %
+HTML         4 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Text         3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+CSS          1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+TypeScript   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Bash         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+```
+
 <!--END_SECTION:waka-->
