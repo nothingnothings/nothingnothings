@@ -23,3 +23,4 @@ jobs:
           SHOW_TOTAL: true
           LANG_COUNT: 6
           SHOW_OS: true
+          SHOW_PROFILE_VIEWS: true
