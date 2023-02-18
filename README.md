@@ -70,7 +70,7 @@ Docker       5 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-##  🥷🧙🧝 GitHub Stats
+##  🧙‍♂️ GitHub Stats
 
 <p style="align: left;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
