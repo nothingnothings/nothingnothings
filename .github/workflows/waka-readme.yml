@@ -22,3 +22,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 6
+          SHOW_OS: true
