@@ -77,7 +77,7 @@ Docker       5 mins          ░░░░░░░░░░░░░░░░░
   <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu&card_width=200" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu&card_width=350" />
+  <img align="center" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu&card_width=400" />
 </a>
  </p>
 
