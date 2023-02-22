@@ -1,7 +1,7 @@
 <div style="width: 50%;">
   <div>
     <p align="center">
-  <img src="logo.svg" style="width: 50%;" alt="logo">
+  <img src="logo.svg" style="width: 45%;" alt="logo">
     </p>
   </div>
 </div>
