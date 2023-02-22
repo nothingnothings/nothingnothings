@@ -1,6 +1,6 @@
 <div style="width: 50%;">
   <div>
-  <img src="logo2.svg" style="width: 25%;" alt="logo">
+  <img src="logo.svg" style="width: 25%;" alt="logo">
   </div>
 </div>
 
