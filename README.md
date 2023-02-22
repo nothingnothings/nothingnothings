@@ -1,5 +1,5 @@
 <div style="width: 50%;">
-  <div style="display: flex; justify-content: center;">
+  <div>
   <img src="logo.svg" style="width: 25%;" alt="logo">
   </div>
 </div>
