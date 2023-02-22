@@ -1,6 +1,8 @@
 <div style="width: 25%;">
   <div>
+    <p align="center">
   <img src="logo.svg" style="width: 25%;" alt="logo">
+    </p>
   </div>
 </div>
 
