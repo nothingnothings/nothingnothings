@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 39 hrs 33 mins
+Total Time: 40 hrs 1 min
 
-JavaScript   17 hrs 26 mins  ███████████░░░░░░░░░░░░░░   43.46 %
-Text         7 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-TypeScript   5 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Vue.js       3 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-CSS          2 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-SQL          1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-HTML         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JavaScript   23 hrs 17 mins  ██████████████░░░░░░░░░░░   57.39 %
+TypeScript   5 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Text         3 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Vue.js       3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+CSS          2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+HTML         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Other        33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
