@@ -88,7 +88,7 @@ JSON         37 mins         █░░░░░░░░░░░░░░░░
 <!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-## 📞 Contact Me
+## 📞 Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://br.linkedin.com/in/arthur-dalla-corte-panazolo)
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/19997047/apanazolo?tab=profile)
