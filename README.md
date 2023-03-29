@@ -90,7 +90,7 @@ JSON         37 mins         █░░░░░░░░░░░░░░░░
  
  ## 📈 Analytics
  
- <!-- ![](https://komarev.com/ghpvc/?username=nothingnothings) --> 
+  ![](https://komarev.com/ghpvc/?username=nothingnothings)
 
 ## 📞 Connect With Me
 
