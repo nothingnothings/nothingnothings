@@ -99,4 +99,4 @@ JSON         37 mins         █░░░░░░░░░░░░░░░░
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:arthur.panazolo@acad.pucrs.br)](mailto:arthur.panazolo@acad.pucrs.br)
 
 
-![](https://hit.yhype.me/github/profile?user_id=90531696)
+<!-- ![](https://hit.yhype.me/github/profile?user_id=90531696) -->
