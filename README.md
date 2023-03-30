@@ -91,7 +91,7 @@ JSON         37 mins         █░░░░░░░░░░░░░░░░
  ## 📈 Analytics
  
   ![](https://komarev.com/ghpvc/?username=nothingnothings)
-  [![Repos Badge](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow)](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow)
+ <!-- [![Repos Badge](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow)](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow) -->
 
 ## 📞 Connect With Me
 
