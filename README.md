@@ -90,7 +90,7 @@ TSConfig     13 mins         ░░░░░░░░░░░░░░░░░
  
  ## 📈 Analytics
  
-  ![](https://komarev.com/ghpvc/?username=nothingnothings)
+  ![](https://komarev.com/ghpvc/?username=nothingnothings&style=flat-square)
   ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/nothingnothings?style=flat-square)
  <!-- [![Repos Badge](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow)](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow) -->
 
