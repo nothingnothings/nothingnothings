@@ -88,6 +88,9 @@ TSConfig     13 mins         ░░░░░░░░░░░░░░░░░
 <!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
+ 
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+ 
  ## 📈 Analytics
  
   ![](https://komarev.com/ghpvc/?username=nothingnothings&style=flat-square)
