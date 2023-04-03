@@ -96,9 +96,6 @@ TSConfig     13 mins         ░░░░░░░░░░░░░░░░░
 ![Metrics](https://metrics.lecoq.io/nothingnothings?template=classic&base.hireable=true&base.activity=0&base.community=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 
 
-
-  ![](https://komarev.com/ghpvc/?username=nothingnothings&style=flat-square)
-  ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/nothingnothings?style=flat-square)
  <!-- [![Repos Badge](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow)](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow) -->
 
 ## 📞 Connect With Me
