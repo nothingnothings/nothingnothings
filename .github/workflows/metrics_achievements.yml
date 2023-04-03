@@ -29,7 +29,6 @@ jobs:
           template: classic
           base: header, repositories, metadata
           base_hireable: yes
-          config_display: columns
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: detailed
