@@ -1,7 +1,11 @@
 <div style="width: 50%;">
   <div>
     <p align="center">
-  <image src="logo.svg" style="width: 30%;" alt="logo">
+      <picture>
+        <source srcset="logo.svg" media="(prefers-color-scheme: light)"  style="width: 30%;" alt="logo-dark">
+        <source srcset="logo-yellow.svg" media="(prefers-color-scheme: dark)" style="width: 30%;" alt="logo-yellow">
+        <img src="logo-blue.svg" style="width: 30%;"  alt="logo-fallback">
+      </picture>
     </p>
   </div>
 </div>
