@@ -1,8 +1,10 @@
 <div style="width: 50%;">
   <div>
     <p align="center">
-  <img media="(prefers-color-scheme: light)" src="logo.svg" style="width: 30%;" alt="logo">
-  <img media="(prefers-color-scheme: dark)" src="logo-yellow.svg" style="width: 30%;" alt="logo">
+      <picture>
+  <source media="(prefers-color-scheme: light)" src="logo.svg" style="width: 30%;" alt="logo">
+  <source media="(prefers-color-scheme: dark)" src="logo-yellow.svg" style="width: 30%;" alt="logo">
+      </picture>
     </p>
   </div>
 </div>
