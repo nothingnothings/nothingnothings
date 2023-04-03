@@ -89,9 +89,9 @@ TSConfig     13 mins         ░░░░░░░░░░░░░░░░░
  -->
  
  
- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
  
- ## 📈 Analytics
+ ## 📈 Metrics
  
   ![](https://komarev.com/ghpvc/?username=nothingnothings&style=flat-square)
   ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/nothingnothings?style=flat-square)
