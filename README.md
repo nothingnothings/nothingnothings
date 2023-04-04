@@ -107,6 +107,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ![Metrics](https://metrics.lecoq.io/nothingnothings?template=classic&base.hireable=true&base.activity=0&base.community=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FSao_Paulo&config.padding=20%25)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nothingnothings&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
