@@ -106,7 +106,7 @@ CSS          12 mins         ░░░░░░░░░░░░░░░░░
 ![](https://komarev.com/ghpvc/?username=nothingnothings&style=flat-square)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/nothingnothings?style=flat-square)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nothingnothings&no-bg=true&no-frame=true&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nothingnothings&no-bg=false&no-frame=true&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](https://metrics.lecoq.io/nothingnothings?template=classic&base.hireable=true&base.activity=0&base.community=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FSao_Paulo&config.padding=20%25)
 
