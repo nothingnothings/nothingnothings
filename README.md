@@ -105,7 +105,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
  
  <div align="center">
   
-![](https://komarev.com/ghpvc/?username=nothingnothings&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nothingnothing&style=flat-square)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/nothingnothings?style=flat-square)
   
   </div> 
