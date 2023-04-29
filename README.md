@@ -103,12 +103,15 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
  
  ## 📈 Metrics
  
+ <br> 
+ <br>
  <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=nothingnothing&style=for-the-badge)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/nothingnothings?style=for-the-badge)
   
   </div> 
+  
 
 
 <div align="center">
