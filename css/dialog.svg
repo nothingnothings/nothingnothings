@@ -1,49 +1,55 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <link href="https://fonts.cdnfonts.com/css/press-start-2p" rel="stylesheet"></link>
 
       <style>
-        .dialogue {
-  position: absolute;
-  background: white;
-  top: 70vmin;
-  height: 25vmin;
-  width: 90vmin;
-  color: black;
-  box-shadow:
-    -1.5vmin 1.5vmin, 1.5vmin -1.5vmin,
-    -2.5vmin 2.5vmin white, -2.5vmin -2.5vmin white,
-    -1.5vmin -1.5vmin, 1.5vmin 1.5vmin  
-}
-        
-        .fwd {
+
+.box {
+  font-size: 8px;
+  font-family: 'Press Start 2P', 'Lato', sans-serif;
+  border-radius: 2px;
   position: relative;
-  left: 35vmin;
-  top: 1vmin;
-  background: transparent;
-  height: 1vmin;
-  width: 1vmin;
-  color: black;
-  box-shadow:
-    1vmin 0, 2vmin 0, 3vmin 0, 4vmin 0, 5vmin 0, 6vmin 0,
-    2vmin 1vmin, 3vmin 1vmin, 4vmin 1vmin, 5vmin 1vmin,
-    3vmin 2vmin, 4vmin 2vmin;
-  animation: int 1s infinite;
+  padding: 8px;
+  width: 210px;
+  height: 28px;
+  line-height: 16px;
+  margin: auto;
+  background: white;
+  border: 1px solid white;
+  cursor: default;
+  box-shadow: 0 1px 0 1px black,
+              inset 0 1px 0 1px black,
+              0 0 0 1px black,
+              inset 0 0 0 1px black;
 }
-        
-        @keyframes int {
-  25% {
-    top: 2vmin;
-  }
+.box > i {
+  width: 0;
+  height: 0;
+  border: 5px solid transparent;
+  border-top-color: black;
+  margin-top: 9px;
+  animation: bounce 0.5s ease-in-out 0 infinite alternate;
+  float: right;
+  position: absolute;
+  right: 18px;
+}
+
+.red {
+  color: #ff0000;
+}
+
+@keyframes bounce {
+  from { margin-top: 20px; }
+  to { margin-top: 28px; }
 }
         
       </style>
 
 
-            <div class="dialogue">
-           <p>Every journey begins with a choice...</p>
-           <div class="fwd"></div>
-
+            <div class="box">
+              Every journey starts with a <span class="red">choice</span>...
+              <i></i>
           </div>
 
     </div>
