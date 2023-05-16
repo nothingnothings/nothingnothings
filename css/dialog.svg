@@ -15,11 +15,35 @@
     -2.5vmin 2.5vmin white, -2.5vmin -2.5vmin white,
     -1.5vmin -1.5vmin, 1.5vmin 1.5vmin  
 }
+        
+        .fwd {
+  position: relative;
+  left: 35vmin;
+  top: 1vmin;
+  background: transparent;
+  height: 1vmin;
+  width: 1vmin;
+  color: black;
+  box-shadow:
+    1vmin 0, 2vmin 0, 3vmin 0, 4vmin 0, 5vmin 0, 6vmin 0,
+    2vmin 1vmin, 3vmin 1vmin, 4vmin 1vmin, 5vmin 1vmin,
+    3vmin 2vmin, 4vmin 2vmin;
+  animation: int 1s infinite;
+}
+        
+        @keyframes int {
+  25% {
+    top: 2vmin;
+  }
+}
+        
       </style>
 
 
             <div class="dialogue">
-              <span>This is a message.</span>
+           <p>Every journey begins with a choice...</p>
+           <div class="fwd"></div>
+
           </div>
 
     </div>
