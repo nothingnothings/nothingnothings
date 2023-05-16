@@ -65,6 +65,8 @@
 ##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Every Journey Begins With a Choice...
  -->
 
+<!-- <img src="./css/dialog.svg" width="800" height="400"> -->
+
 
 
 
