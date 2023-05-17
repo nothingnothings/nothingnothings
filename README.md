@@ -67,16 +67,24 @@
   
     
         
-<!-- 
- ##
-##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework: -->
+<!--  ##
+##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework:
 
-
-<!--
-<div style="width: 100%;">
-  <img src="./css/dialog.svg" style="width: 40%;" alt="Click to see the source">
+&nbsp;
+<br>
+<div align="center" style="margin-bottom: 2rem;">
+<div style="width: 50%;">
+  <img src="./css/pokemon-choice.svg" style="width: 30%;" alt="Click to see the source">
 </div>
--->
+  </div>
+  
+&nbsp;
+<br>
+<div align="center">
+<div style="width: 100%;">
+  <img src="./css/dialog.svg" style="width: 55%;" alt="Click to see the source">
+</div>
+  </div> -->
       
 
 ## 💻 This week's activity
