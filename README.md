@@ -67,14 +67,14 @@
   
     
         
-<!--        
+<!-- 
  ##
-##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Every Journey Begins With a Choice...
--->
+##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework: -->
+
 
 <!--
 <div style="width: 100%;">
-  <img src="./css/dialog.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="./css/dialog.svg" style="width: 40%;" alt="Click to see the source">
 </div>
 -->
       
