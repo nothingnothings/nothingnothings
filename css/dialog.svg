@@ -5,6 +5,7 @@
 
       <style>
 
+          
 .box {
   font-size: 8px;
   font-family: 'Press Start 2P', 'Lato', sans-serif;
@@ -29,7 +30,7 @@
   border: 3px solid transparent;
   border-top-color: black;
   margin-top: 15px;
-  animation: bounce 0.5s ease-in-out 0 infinite alternate;
+  animation: bounce 0.7s infinite alternate;
   float: right;
   position: absolute;
   right: 10px;
