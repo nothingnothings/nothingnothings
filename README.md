@@ -64,11 +64,19 @@
 
 
 
-  
-    
+
         
 <!--  ##
 ##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework:
+
+
+[<img src="css/logos/Vue.js_Logo_2.svg">](https://github.com/nothingnothings/VueDex)
+
+[<img src="css/logos/Angular_full_color_logo.svg">](https://github.com/nothingnothings/AngularDex)
+
+[<img src="css/logos/React-icon.svg.png">](https://github.com/nothingnothings/ReactDex)
+
+
 
 &nbsp;
 <br>
