@@ -61,14 +61,23 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-<!-- ##
+
+
+
+  
+    
+        
+<!--        
+ ##
 ##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Every Journey Begins With a Choice...
- -->
+-->
 
-<!-- <img src="./css/dialog.svg" width="800" height="400"> -->
-
-
-
+<!--
+<div style="width: 100%;">
+  <img src="./css/dialog.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+-->
+      
 
 ## 💻 This week's activity
 
