@@ -66,34 +66,55 @@
 
 
         
-<!--  ##
+ ##
 ##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework:
 
 
-[<img src="css/logos/Vue.js_Logo_2.svg">](https://github.com/nothingnothings/VueDex)
+
+
+<!-- [<img align="center" src="css/logos/Vue.js_Logo_2.svg">](https://github.com/nothingnothings/VueDex)
+  </center>
 
 [<img src="css/logos/Angular_full_color_logo.svg">](https://github.com/nothingnothings/AngularDex)
 
-[<img src="css/logos/React-icon.svg.png">](https://github.com/nothingnothings/ReactDex)
-
-
+[<img src="css/logos/React-icon.svg.png">](https://github.com/nothingnothings/ReactDex) -->
 
 &nbsp;
 <br>
+<p float="left" align="middle">
+<img src="css/logos/Vue.js_Logo_2.svg">
+<img src="css/logos/Angular_full_color_logo.svg">
+<img src="css/logos/React-icon.svg.png">
+</p>
+
+
 <div align="center" style="margin-bottom: 2rem;">
 <div style="width: 50%;">
   <img src="./css/pokemon-choice.svg" style="width: 30%;" alt="Click to see the source">
 </div>
   </div>
   
-&nbsp;
-<br>
+
+<!-- [Choose](https://github.com/nothingnothings/VueDex)
+[Choose](https://github.com/nothingnothings/AngularDex)
+[Choose](https://github.com/nothingnothings/ReactDex) -->
+
+<div align="center">
+<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/VueDex">Choose</a></kbd>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/AngularDex">Choose</a></kbd> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/ReactDex" style="float: right; margin-left: 30px">Choose</a></kbd>
+ </div>
+ 
+ &nbsp; 
+ <br>
+
 <div align="center">
 <div style="width: 100%;">
   <img src="./css/dialog.svg" style="width: 55%;" alt="Click to see the source">
 </div>
-  </div> -->
-      
+  </div>
+
+
 
 ## 💻 This week's activity
 
