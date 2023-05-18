@@ -10,6 +10,49 @@
   </div>
 </div>
 
+ ##
+##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework:
+
+
+
+
+
+&nbsp;
+<br>
+<p float="left" align="middle">
+<img src="css/logos/Vue.js_Logo_2.svg">
+<img src="css/logos/Angular_full_color_logo.svg">
+<img src="css/logos/React-icon.svg.png">
+</p>
+
+
+<div align="center" style="margin-bottom: 2rem;">
+<div style="width: 50%;">
+  <img src="./css/pokemon-choice.svg" style="width: 30%;" alt="Click to see the source">
+</div>
+  </div>
+  
+
+<!-- [Choose](https://github.com/nothingnothings/VueDex)
+[Choose](https://github.com/nothingnothings/AngularDex)
+[Choose](https://github.com/nothingnothings/ReactDex) -->
+
+<div align="center">
+<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/VueDex">Choose</a></kbd>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/AngularDex">Choose</a></kbd> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/ReactDex" style="float: right; margin-left: 30px">Choose</a></kbd>
+ </div>
+ 
+ &nbsp; 
+ <br>
+
+<div align="center">
+<div style="width: 100%;">
+  <img src="./css/dialog.svg" style="width: 55%;" alt="Click to see the source">
+</div>
+  </div>
+
+##
 ## 🛠 Languages and Tools:
 
 #### Languages:
@@ -66,74 +109,28 @@
 
 
         
- ##
-##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework:
 
 
 
-
-<!-- [<img align="center" src="css/logos/Vue.js_Logo_2.svg">](https://github.com/nothingnothings/VueDex)
-  </center>
-
-[<img src="css/logos/Angular_full_color_logo.svg">](https://github.com/nothingnothings/AngularDex)
-
-[<img src="css/logos/React-icon.svg.png">](https://github.com/nothingnothings/ReactDex) -->
-
-&nbsp;
-<br>
-<p float="left" align="middle">
-<img src="css/logos/Vue.js_Logo_2.svg">
-<img src="css/logos/Angular_full_color_logo.svg">
-<img src="css/logos/React-icon.svg.png">
-</p>
-
-
-<div align="center" style="margin-bottom: 2rem;">
-<div style="width: 50%;">
-  <img src="./css/pokemon-choice.svg" style="width: 30%;" alt="Click to see the source">
-</div>
-  </div>
-  
-
-<!-- [Choose](https://github.com/nothingnothings/VueDex)
-[Choose](https://github.com/nothingnothings/AngularDex)
-[Choose](https://github.com/nothingnothings/ReactDex) -->
-
-<div align="center">
-<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/VueDex">Choose</a></kbd>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/AngularDex">Choose</a></kbd> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<kbd style="float: left; margin-right: 30px;"><a href="https://github.com/nothingnothings/ReactDex" style="float: right; margin-left: 30px">Choose</a></kbd>
- </div>
- 
- &nbsp; 
- <br>
-
-<div align="center">
-<div style="width: 100%;">
-  <img src="./css/dialog.svg" style="width: 55%;" alt="Click to see the source">
-</div>
-  </div>
-
-
-
+##
 ## 💻 This week's activity
 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 22 hrs 36 mins
+Total Time: 24 hrs 26 mins
 
-TypeScript   11 hrs 17 mins  ████████████░░░░░░░░░░░░░   49.91 %
-HTML         6 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   30.15 %
-Vue.js       3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
-SCSS         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-CSS          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript   11 hrs 38 mins  ████████████░░░░░░░░░░░░░   47.56 %
+HTML         6 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.99 %
+Vue.js       3 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+SCSS         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Bash         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JSON         29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
 
-
+##
 ##  🧙‍♂️ GitHub Stats
 
 <p style="align: left;">
