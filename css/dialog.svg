@@ -43,7 +43,7 @@
   width: 0;
   animation: typing;
   animation-duration: 2.5s;
-  animation-timing-function: steps(60, end);
+  animation-timing-function: steps(75, end);
   animation-fill-mode: forwards;
 }
 
