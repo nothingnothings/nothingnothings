@@ -158,7 +158,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
   <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu&card_width=200&border_color=002046" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu&card_width=500&border_color=002046" />
+  <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu&card_width=400&border_color=002046" />
 </a>
  </p>
 
