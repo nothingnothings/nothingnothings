@@ -9,10 +9,11 @@
     </p>
   </div>
 </div>
-
- ##
-##  <img align="center" style="margin-bottom: 5px;" src="https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png" /> Choose your Starter Framework:
-
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">Choose your Starter Framework:</h1>
+  </div>
 
 
 
@@ -52,8 +53,14 @@
 </div>
   </div>
 
-##
-## 🛠 Languages and Tools:
+<!-- ##
+## 🛠 Languages and Tools: -->
+
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">🛠 Languages and Tools:</h1>
+  </div>
 
 #### Languages:
 
@@ -114,8 +121,13 @@
 
 
 
-##
-## 💻 This week's activity
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">💻 This week's activity: </h1>
+  </div>
+<!-- ##
+## 💻 This week's activity -->
 
 <!--START_SECTION:waka-->
 
@@ -132,22 +144,34 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-##
-##  🧙‍♂️ GitHub Stats
+<!-- ##
+##  🧙‍♂️ GitHub Stats -->
+
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">🧙‍♂️ GitHub Stats</h1>
+  </div>
 
 <p style="align: left;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu&card_width=200&border_color=002046" />
+  <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api?username=nothingnothings&count_private=true&show_icons=true&theme=yeblu&card_width=500&border_color=002046" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu&card_width=400&border_color=002046" />
+  <img align="center" style="height: 200px;" src="https://github-readme-stats-mu-navy.vercel.app/api/top-langs/?username=nothingnothings&langs_count=3&theme=yeblu&card_width=500&border_color=002046" />
 </a>
  </p>
 
 <!-- [![nothingnothings's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nothingnothings)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- ## 📞 Connect With Me
+<!--  ## 📞 Connect With Me -->
+
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">📞 Connect With Me</h1>
+  </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://br.linkedin.com/in/arthur-dalla-corte-panazolo)
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/19997047/apanazolo?tab=profile)
@@ -156,7 +180,13 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 ![](https://hit.yhype.me/github/profile?user_id=90531696)
  
- ## 📈 Metrics
+<!--  ## 📈 Metrics -->
+
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">📈 Metrics</h1>
+  </div>
  
  <br> 
  <br>
@@ -189,8 +219,3 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 
   
-
-
-
- <!-- [![Repos Badge](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow)](https://badges.temir.dev/repos?username=nothingnothings&style=for-the-badge&logo=github&color=yellow) -->
-
