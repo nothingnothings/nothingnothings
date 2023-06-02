@@ -131,7 +131,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 33 hrs 44 mins
 
 Text                       29 hrs 13 mins  ██████████████████████░░░   86.50 %
