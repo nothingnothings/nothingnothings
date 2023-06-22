@@ -137,11 +137,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 56 mins
+Total Time: 0 secs
 
-Text         1 hr 35 mins    ████████████████████░░░░░   81.69 %
-TypeScript   21 mins         █████░░░░░░░░░░░░░░░░░░░░   18.25 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
