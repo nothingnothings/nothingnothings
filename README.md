@@ -137,9 +137,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 44 mins
 
-No activity tracked
+Text                       1 hr 11 mins    ████████████████░░░░░░░░░   63.87 %
+Blade Template             11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Other                      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+YAML                       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+JSON                       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Docker                     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
