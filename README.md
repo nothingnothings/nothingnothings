@@ -155,7 +155,7 @@ Other                      22 mins         █░░░░░░░░░░░�
 <br>
 &nbsp;
   <div>
-  <h1 align="center">🧙‍♂️ GitHub Stats</h1>
+  <h1 align="center">🧙 GitHub Stats</h1>
   </div>
 
 <p style="align: left;">
