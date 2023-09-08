@@ -139,10 +139,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 16 mins
+Total Time: 29 hrs 49 mins
 
-Text    18 hrs 12 mins  ██████████████░░░░░░░░░░░   54.74 %
-SQL     15 hrs 3 mins   ███████████░░░░░░░░░░░░░░   45.26 %
+SQL     16 hrs 57 mins  ██████████████░░░░░░░░░░░   56.85 %
+Text    12 hrs 52 mins  ███████████░░░░░░░░░░░░░░   43.15 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
