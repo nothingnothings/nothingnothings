@@ -141,11 +141,7 @@
 ```txt
 Total Time: 3 hrs 17 mins
 
-TypeScript   2 hrs 44 mins   █████████████████████░░░░   83.54 %
-JSON         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
