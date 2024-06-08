@@ -141,12 +141,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 35 hrs 9 mins
+Total Time: 33 hrs 20 mins
 
-Text         30 hrs 23 mins  ██████████████████░░░░░░░   71.11 %
-Other        7 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.72 %
-JavaScript   4 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text         28 hrs 42 mins  ██████████████████░░░░░░░   72.07 %
+Other        6 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+JavaScript   4 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
