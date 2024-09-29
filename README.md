@@ -145,14 +145,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 35 mins
+Total Time: 25 hrs 37 mins
 
-Text             17 hrs 9 mins   █████████████████░░░░░░░░   66.85 %
-PHP              5 hrs 54 mins   ██████░░░░░░░░░░░░░░░░░░░   23.00 %
-Blade Template   2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Twig             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Text             17 hrs 17 mins  █████████████████░░░░░░░░   67.19 %
+PHP              5 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   21.48 %
+Blade Template   2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+OpenSCAD         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Twig             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Other            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
