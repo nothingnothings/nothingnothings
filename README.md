@@ -32,7 +32,6 @@
   <img src="./css/pokemon-choice.svg" style="width: 30%;" alt="Click to see the source">
 </div>
   </div>
-  
 
 <!-- [Choose](https://github.com/nothingnothings/VueDex)
 [Choose](https://github.com/nothingnothings/AngularDex)
@@ -129,8 +128,26 @@
 
 
 
+<br>
+&nbsp;
+  <div>
+  <h1 align="center">🚀 Some of my Projects:</h1>
+  </div>
 
-        
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=NodeShopRestAPI)](https://github.com/nothingnothings/NodeShopRestAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=nosferatu)](https://github.com/nothingnothings/nosferatu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=ArtGarageWebpackVersion)](https://github.com/nothingnothings/ArtGarageWebpackVersion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=HostCorpsWebpackVersion)](https://github.com/nothingnothings/HostCorpsWebpackVersion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=zap-scraper)](https://github.com/nothingnothings/zap-scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=mlscraper)](https://github.com/nothingnothings/mlscraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=threejs-fireworks)](https://github.com/nothingnothings/threejs-fireworks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=r3f-portfolio)](https://github.com/nothingnothings/r3f-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=PostManager)](https://github.com/nothingnothings/PostManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=snowflake-summary)](https://github.com/nothingnothings/snowflake-summary)
+
+
+
 
 
 
