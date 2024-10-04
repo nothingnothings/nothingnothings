@@ -135,7 +135,7 @@
   </div>
 
 <p>
-  <a href="https://github.com/nothingnothings/NodeShopRestAPI">
+  <a href="https://github.com/nothingnothings/NodeShopRestAPI" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=NodeShopRestAPI" width="49.6%" />
   </a>
   <a href="https://github.com/nothingnothings/nosferatu">
