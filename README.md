@@ -135,24 +135,45 @@
   </div>
 
 <p>
+  <a href="https://github.com/nothingnothings/NodeShopRestAPI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=NodeShopRestAPI" width="49.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=nosferatu" width="49.6%" /> 
+  </a>
+  <a href="https://github.com/nothingnothings/nosferatu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=nosferatu" width="49.6%" />
+  </a>
 </p>
+
 <p>
+  <a href="https://github.com/nothingnothings/ArtGarageWebpackVersion">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=ArtGarageWebpackVersion" width="49.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=HostCorpsWebpackVersion" width="49.6%" /> 
+  </a>
+  <a href="https://github.com/nothingnothings/HostCorpsWebpackVersion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=HostCorpsWebpackVersion" width="49.6%" />
+  </a>
 </p>
 <p>
+  <a href="https://github.com/nothingnothings/zap-scraper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=zap-scraper" width="49.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=mlscraper" width="49.6%" /> 
+  </a>
+  <a href="https://github.com/nothingnothings/mlscraper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=mlscraper" width="49.6%" />
+  </a>
 </p>
 <p>
+  <a href="https://github.com/nothingnothings/snowflake-summary">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=snowflake-summary" width="49.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=r3f-portfolio" width="49.6%" /> 
+  </a>
+  <a href="https://github.com/nothingnothings/r3f-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=r3f-portfolio" width="49.6%" />
+  </a>
 </p>
 <p>
+  <a href="https://github.com/nothingnothings/PostManager">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=PostManager" width="49.6%" />
+  </a>
+  <a href="https://github.com/nothingnothings/NodeShopMultiPageApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=NodeShopMultiPageApp" width="49.6%" />
+  </a>
 </p>
 
 
