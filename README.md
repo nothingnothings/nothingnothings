@@ -167,7 +167,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=r3f-portfolio" width="49.6%" />
   </a>
 </p>
-<p>
+<!-- <p>
+  <a href="https://github.com/nothingnothings/tailwindTraining">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=tailwindTraining" width="49.6%" />
+  </a>
+  <a href="https://github.com/nothingnothings/bootstrapTraining">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=bootstrapTraining" width="49.6%" />
+  </a>
+</p>
+<p> -->
   <a href="https://github.com/nothingnothings/PostManager">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothingnothings&repo=PostManager" width="49.6%" />
   </a>
