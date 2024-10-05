@@ -192,14 +192,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 26 mins
+Total Time: 19 hrs 37 mins
 
-Text             16 hrs 22 mins  █████████████████░░░░░░░░   69.19 %
-PHP              3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Blade Template   2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Python           27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-OpenSCAD         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Text             12 hrs 41 mins  ████████████████░░░░░░░░░   64.00 %
+PHP              2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Blade Template   2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+HTML             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Python           27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+OpenSCAD         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
