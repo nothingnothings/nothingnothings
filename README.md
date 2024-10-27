@@ -203,9 +203,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 6 mins
 
-No activity tracked
+SQL    6 mins          █████████████████████████   98.11 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
