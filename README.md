@@ -203,10 +203,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 1 hr 57 mins
 
-SQL    6 mins          █████████████████████████   98.11 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Text    1 hr 50 mins    ████████████████████████░   94.19 %
+SQL     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
