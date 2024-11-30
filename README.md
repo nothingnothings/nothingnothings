@@ -203,10 +203,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 32 mins
+Total Time: 9 hrs 31 mins
 
-Text    5 hrs 31 mins   █████████████████████████   99.97 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text         8 hrs 56 mins   ███████████████████████░░   93.85 %
+PHP          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
