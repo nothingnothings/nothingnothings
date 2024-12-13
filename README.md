@@ -203,14 +203,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 16 mins
+Total Time: 3 hrs 39 mins
 
-Text         5 hrs 47 mins   █████████████████░░░░░░░░   69.88 %
-Vue.js       1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-JavaScript   58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-PHP          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Text   3 hrs 39 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
