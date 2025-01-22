@@ -203,10 +203,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 18 mins
+Total Time: 0 secs
 
-TypeScript   2 hrs 11 mins   ████████████████████████░   94.77 %
-PHP          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
