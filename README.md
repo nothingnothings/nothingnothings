@@ -203,10 +203,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 0 secs
 
-INI     1 min           ████████████████░░░░░░░░░   62.32 %
-Other   0 secs          █████████░░░░░░░░░░░░░░░░   37.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
