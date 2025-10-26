@@ -203,10 +203,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 mins
+Total Time: 16 mins
 
-Python   30 mins         ████████████████████░░░░░   79.08 %
-Ren'Py   7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.92 %
+Python   8 mins          █████████████░░░░░░░░░░░░   52.00 %
+Ren'Py   7 mins          ████████████░░░░░░░░░░░░░   48.00 %
 ```
 
 <!--END_SECTION:waka-->
