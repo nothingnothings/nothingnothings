@@ -203,13 +203,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 0 secs
 
-HTML         16 mins         ████████████████░░░░░░░░░   64.94 %
-Other        7 mins          ████████░░░░░░░░░░░░░░░░░   30.88 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
