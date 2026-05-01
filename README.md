@@ -205,7 +205,8 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+CMake       0 secs                ███████████████████████░░   90.97 %
+Batchfile   0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 %
 ```
 
 <!--END_SECTION:waka-->
