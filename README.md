@@ -203,10 +203,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 43 mins
 
-CMake       0 secs                ███████████████████████░░   90.97 %
-Batchfile   0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+CMake       32 mins               ██████████████████░░░░░░░   73.21 %
+JSON        11 mins               ███████░░░░░░░░░░░░░░░░░░   26.09 %
+Other       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Diff        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Batchfile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
