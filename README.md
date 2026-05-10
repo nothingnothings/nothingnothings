@@ -203,12 +203,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 43 mins
+Total Time: 4 hrs 9 mins
 
-Text    1 hr 45 mins          ████████████░░░░░░░░░░░░░   46.93 %
-JSON    1 hr 36 mins          ███████████░░░░░░░░░░░░░░   43.06 %
-CMake   21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-C++     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Text   4 hrs 9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
