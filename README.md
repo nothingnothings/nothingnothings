@@ -203,9 +203,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 9 mins
+Total Time: 6 hrs 23 mins
 
-Text   4 hrs 9 mins          █████████████████████████   100.00 %
+Text        6 hrs 5 mins          ████████████████████████░   94.75 %
+Batchfile   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Other       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
