@@ -203,11 +203,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 23 mins
+Total Time: 9 hrs 48 mins
 
-Text        6 hrs 5 mins          ████████████████████████░   94.75 %
-Batchfile   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text        8 hrs 34 mins         ██████████████████████░░░   86.88 %
+Batchfile   1 hr 10 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Ren'Py      4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
