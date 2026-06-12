@@ -203,11 +203,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 29 mins
+Total Time: 20 hrs 24 mins
 
-Text         15 hrs 27 mins        ███████████████████░░░░░░   75.33 %
-JSON         4 hrs 36 mins         ██████░░░░░░░░░░░░░░░░░░░   22.44 %
-Markdown     15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Text         15 hrs 34 mins        ███████████████████░░░░░░   76.24 %
+JSON         4 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   21.59 %
+Markdown     14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 JavaScript   10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 GDScript3    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
