@@ -203,13 +203,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 14 mins
+Total Time: 4 hrs 49 mins
 
-Text         2 hrs 27 mins         ███████████████░░░░░░░░░░   58.01 %
-Batchfile    56 mins               ██████░░░░░░░░░░░░░░░░░░░   22.37 %
-JSON         37 mins               ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
-JavaScript   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Text         2 hrs 27 mins         █████████████░░░░░░░░░░░░   50.98 %
+JSON         1 hr 12 mins          ██████░░░░░░░░░░░░░░░░░░░   24.96 %
+Batchfile    56 mins               █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+JavaScript   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
