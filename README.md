@@ -203,12 +203,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 1 min
+Total Time: 7 hrs 26 mins
 
-Text         4 hrs 10 mins         █████████████░░░░░░░░░░░░   52.18 %
-JSON         3 hrs 43 mins         ████████████░░░░░░░░░░░░░   46.53 %
-SSH Config   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Batchfile    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text         4 hrs 10 mins         ██████████████░░░░░░░░░░░   56.25 %
+JSON         3 hrs 8 mins          ███████████░░░░░░░░░░░░░░   42.36 %
+SSH Config   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
