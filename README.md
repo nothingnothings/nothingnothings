@@ -9169,7 +9169,7 @@ endsolid TIGER
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nothingnothings&no-bg=false&margin-w=4&column=3&no-frame=true&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=nothingnothings&no-bg=false&margin-w=4&column=3&no-frame=true&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 </div>
 
 <!-- ![Metrics](https://metrics.lecoq.io/nothingnothings?template=classic&base.hireable=true&base.activity=0&base.community=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FSao_Paulo&config.padding=20%25) -->
