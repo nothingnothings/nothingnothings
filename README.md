@@ -150,8 +150,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/nothingnothings/ArtGarageWebpackVersion">
-  <img src="https://github-readme-stats-mu-navy.vercel.app/api/pin/?username=nothingnothings&repo=ArtGarageWebpackVersion" width="49.6%" />
+  <a href="https://github.com/nothingnothings/OLX-Scraper">
+  <img src="https://github-readme-stats-mu-navy.vercel.app/api/pin/?username=nothingnothings&repo=OLX-Scraper" width="49.6%" />
   </a>
   <a href="https://github.com/nothingnothings/HostCorpsWebpackVersion">
   <img src="https://github-readme-stats-mu-navy.vercel.app/api/pin/?username=nothingnothings&repo=HostCorpsWebpackVersion" width="49.6%" />
