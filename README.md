@@ -206,12 +206,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 22 mins
+Total Time: 6 mins
 
-Text         1 hr 37 mins          █████████████████░░░░░░░░   68.10 %
-JSON         30 mins               █████░░░░░░░░░░░░░░░░░░░░   21.03 %
-Git Config   15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON        5 mins                ████████████████████░░░░░   80.84 %
+Batchfile   0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+INI         0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Python      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
