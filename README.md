@@ -206,10 +206,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 mins
+Total Time: 32 mins
 
-JSON   23 mins               █████████████████░░░░░░░░   67.19 %
-INI    11 mins               ████████░░░░░░░░░░░░░░░░░   32.81 %
+JSON   21 mins               ████████████████░░░░░░░░░   65.64 %
+INI    11 mins               █████████░░░░░░░░░░░░░░░░   34.36 %
 ```
 
 <!--END_SECTION:waka-->
