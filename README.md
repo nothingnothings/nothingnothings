@@ -206,14 +206,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 48 hrs 38 mins
+Total Time: 43 hrs 12 mins
 
-Python       21 hrs 46 mins        ███████████░░░░░░░░░░░░░░   44.19 %
-Text         9 hrs 3 mins          █████░░░░░░░░░░░░░░░░░░░░   18.39 %
-GDScript3    7 hrs 45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-Markdown     6 hrs 34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
-JSON         1 hr 28 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-PowerShell   48 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Python       20 hrs 55 mins        ████████████░░░░░░░░░░░░░   47.73 %
+Text         7 hrs 12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+GDScript3    6 hrs 34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Markdown     5 hrs 48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 %
+PowerShell   48 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JSON         41 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
